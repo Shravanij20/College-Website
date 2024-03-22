@@ -1,0 +1,114 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<title>website</title>
+<link rel="stylesheet" href="shravani.css">
+</head>
+<body>
+
+<div id="div">
+<nav>
+&nbsp &nbsp<a href="shravani1.html">HOME</a>
+&nbsp &nbsp<a href="programs.html">PROGRAMS</a>
+&nbsp &nbsp<a href="about.html">ABOUT US</a>
+&nbsp &nbsp<a href="contact.html">CONTACT</a>
+&nbsp &nbsp<a href="feedback.html">FEEDBACK</a>
+&nbsp &nbsp
+</nav>
+</div>
+<br>
+<br>
+
+<table  bgcolor="sky blue" align="center" width="100%" >
+<tr align="center">
+<td>
+<h1 style="font-size:3em;">SANJIVANI COLLEGE OF ENGINEERING</h1>
+<h4>AN AUTONOMOUS INSTITUTE</h4>
+<td>
+<td>
+<img src="logo.jpg" height="20%" width="30%"></img>
+<td>
+</tr>
+</table>
+
+<br>
+<img src="main.jpg" width="100%" height="50%"</img>
+<table cellspacing="20" width="100%" align="center">
+<tr>
+<td rowspan="2">
+<h1 align="center">About Sanjivani</h1>
+<h3>Sanjivani College of Engineering (An Autonomous Institute), Kopargaon is one among the premier technical institutes in Maharashtra state in the un-aided sector. Established in 1983 by the Sanjivani Rural Educational Society under the charismatic leadership of Shri. Shankarrao G. Kolhe, the Institute had its vision for social transformation and , upliftment of rural masses through education, training and research.</h3>
+</td>
+<td>
+<h1> Our Vision </h1>
+<h2>To Develop World Class Professionals through Quality Education.</h2>
+</td>
+</tr>
+<tr>
+<td>
+<h1> Our mission </h1>
+<h2>To create Academic Excellence in the field of Engineering and Management through Education, Training and Research to improve quality of life of people.</h2>
+</td>
+</tr>
+</table>
+
+<hr>
+<br>
+<table width="100%" id="table">
+<tr align="center">
+<td rowspan="2"><h3 style="font-family:cursive";><i>INTERESTING FACTS</i></h3></td>
+<td>32000+</td>
+<td>9+</td>
+<td>1500+</td>
+<td>100%</td>
+</tr>
+<tr align="center">
+<td>Alumni</td>
+<td>Collaborations with International Institutes</td>
+<td>Globally Recognized Certifications
+</td>
+<td>Placements</td>
+</tr>
+</table>
+<br>
+<hr>
+<h1 align="center"><u>Our Departments</u></h1>
+<h2 align="center"><i>We have six Departments in Our Sanjivani College of Engineering, Kopargaon (An Autonomous Institute)</i></h2
+<hr>
+
+<table width="100%">
+<tr align="center">
+<td><a href="compdept.html"><img src="comp.jpg" height="250" width="300"></img></a></td>
+<td><a href="mechdept.html"><img src="mech.jpg" height="250" width="300"></img></a></td>
+<td><a href="mtxdept.html"><img src="mtx.jpg" height="250" width="300"></img></a></td>
+</tr>
+<tr align="center">
+<td><a href="compdept.html">COMPUTER ENGINEERING</a></td>
+<td><a href="mechdept.html">MECHANICAL ENGINEERING</a></td>
+<td><a href="mtxdept.html">MECHATRONICS ENGINEERING</a></td>
+</tr>
+<tr align="center">
+<td><a href="civildept.html"><img src="civil.jpg" height="250" width="300""></img></a></td>
+<td><a href="ecedept.html"><img src="ece.jpg" height="250" width="300"></img></a></td>
+<td><a href="eledept.html"><img src="electrical.jpg" height="250" width="300"></img></a></td>
+</tr>
+<tr align="center"align="center">
+<td><a href="civildept.html">CIVIL ENGINEERING</a></td>
+<td><a href="ecedept.html">ECE ENGINEERING</a></td>
+<td><a href="eledept.html">ELECTRICAL ENGINEERING</a></td>
+</tr>
+</table>
+<hr>
+<div align="center">
+<footer>
+<p>Made by Shravani Jadhav</p>
+</footer>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>
+
